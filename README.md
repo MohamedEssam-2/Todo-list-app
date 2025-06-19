@@ -10,8 +10,7 @@ The app allows users to add, view, and delete tasks with a timestamp. No framewo
 
 ## 📸 Demo Screenshot
 
-![To-Do List Preview](![image](https://github.com/user-attachments/assets/3cebd98a-134d-463a-9a15-9e3adcb542c1)
-)  
+![To-Do List Preview](![image](https://github.com/user-attachments/assets/3cebd98a-134d-463a-9a15-9e3adcb542c1))  
 <sub>*(Add your own screenshot here by replacing the link)*</sub>
 
 ---
