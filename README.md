@@ -8,12 +8,6 @@ The app allows users to add, view, and delete tasks with a timestamp. No framewo
 
 ---
 
-## 📸 Demo Screenshot
-
-![To-Do List Preview]([https://via.placeholder.com/700x300?text=To-Do+List+Web+App](https://i.postimg.cc/bNsgdkbL/Untaitled.png))  
-<sub>*(Add your own screenshot here by replacing the link)*</sub>
----
-
 ## 🌟 Features
 
 - 📝 Add new tasks dynamically  
@@ -48,5 +42,12 @@ The app allows users to add, view, and delete tasks with a timestamp. No framewo
 ---
 
 ## 🗂️ File Structure
+ Todo-list-app/
+│
+├── index.html # Main HTML file
+├── main.css # Custom styling for the app
+├── Script.js # Core JavaScript logic
+└── README.md # Project documentation
 
 
+🙌 Author Mohamed Essam GitHub: https://github.com/MohamedEssam-2
