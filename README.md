@@ -40,7 +40,7 @@ The app allows users to add, view, and delete tasks with a timestamp. No framewo
 3. All actions update the DOM dynamically without reloading the page
 
 ---
-
+'''bash
 ## 🗂️ File Structure
  Todo-list-app/
 │
@@ -48,6 +48,6 @@ The app allows users to add, view, and delete tasks with a timestamp. No framewo
 ├── main.css # Custom styling for the app
 ├── Script.js # Core JavaScript logic
 └── README.md # Project documentation
-
+'''
 
 🙌 Author Mohamed Essam GitHub: https://github.com/MohamedEssam-2
