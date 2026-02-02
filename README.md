@@ -40,8 +40,8 @@ The app allows users to add, view, and delete tasks with a timestamp. No framewo
 3. All actions update the DOM dynamically without reloading the page
 
 ---
-'''
 ## 🗂️ File Structure
+'''
  Todo-list-app/
 │
 ├── index.html # Main HTML file
